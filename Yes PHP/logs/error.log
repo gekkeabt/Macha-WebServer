@@ -139,3 +139,70 @@
 2012/08/22 18:31:55 [alert] 5152#6324: worker process 1644 exited with code 1
 2012/08/22 18:32:44 [emerg] 7316#8144: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
 2012/08/22 18:32:44 [alert] 5672#4644: worker process 7316 exited with code 1
+2012/08/22 19:21:17 [emerg] 3548#5308: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:21:17 [alert] 832#6808: worker process 3548 exited with code 1
+2012/08/22 19:21:32 [emerg] 4960#6500: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:21:32 [alert] 4232#7476: worker process 4960 exited with code 1
+2012/08/22 19:28:46 [emerg] 4268#1684: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:28:46 [alert] 5064#6620: worker process 4268 exited with code 1
+2012/08/22 19:42:15 [emerg] 6748#584: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:42:15 [alert] 7868#864: worker process 6748 exited with code 1
+2012/08/22 19:42:35 [emerg] 5260#6468: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:42:35 [alert] 7388#7972: worker process 5260 exited with code 1
+2012/08/22 19:42:44 [emerg] 6788#876: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:42:44 [alert] 7496#6328: worker process 6788 exited with code 1
+2012/08/22 19:42:53 [emerg] 7716#5420: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:42:53 [alert] 7120#3452: worker process 7716 exited with code 1
+2012/08/22 19:43:07 [warn] 5020#4104: server name "/" has suspicious symbols in P:\server/conf/nginx.conf:37
+2012/08/22 19:43:07 [warn] 1192#7304: server name "/" has suspicious symbols in P:\server/conf/nginx.conf:37
+2012/08/22 19:43:07 [warn] 5424#5852: server name "/" has suspicious symbols in P:\server/conf/nginx.conf:37
+2012/08/22 19:43:07 [emerg] 5424#5852: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:43:07 [alert] 5020#4104: worker process 5424 exited with code 1
+2012/08/22 19:43:41 [emerg] 3936#1112: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:43:41 [alert] 8092#3116: worker process 3936 exited with code 1
+2012/08/22 19:44:35 [emerg] 2780#5808: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:44:35 [alert] 5456#7228: worker process 2780 exited with code 1
+2012/08/22 19:45:51 [emerg] 1636#7592: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:45:51 [alert] 6260#3740: worker process 1636 exited with code 1
+2012/08/22 19:47:36 [emerg] 5624#4088: invalid parameter "80" in P:\server/conf/nginx.conf:36
+2012/08/22 19:48:19 [emerg] 2712#5756: a duplicate listen 0.0.0.0:80 in P:\server/conf/nginx.conf:37
+2012/08/22 19:48:40 [emerg] 5512#7176: a duplicate listen 0.0.0.0:80 in P:\server/conf/nginx.conf:37
+2012/08/22 19:49:09 [alert] 8120#3452: no more than 60 processes can be spawned
+2012/08/22 19:49:13 [error] 7120#2128: *2 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.8, server: 192.168.1.8, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080"
+2012/08/22 19:49:29 [emerg] 3772#7308: invalid parameter "8080" in P:\server/conf/nginx.conf:36
+2012/08/22 19:49:53 [error] 824#5104: *2 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.8, server: 192.168.1.8, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080"
+2012/08/22 19:49:54 [alert] 4988#2380: no more than 60 processes can be spawned
+2012/08/22 19:50:23 [error] 4368#5888: *2 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: 192.168.1.8, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2012/08/22 19:50:24 [alert] 5764#7852: no more than 60 processes can be spawned
+2012/08/22 19:52:33 [emerg] 8112#4088: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 19:52:33 [alert] 6540#7772: worker process 8112 exited with code 1
+2012/08/22 19:52:46 [alert] 7240#7636: no more than 60 processes can be spawned
+2012/08/22 19:52:48 [error] 6456#3384: *2 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.8, server: 192.168.1.8, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080"
+2012/08/22 20:07:38 [emerg] 3196#5132: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 20:07:38 [alert] 5020#7164: worker process 3196 exited with code 1
+2012/08/22 20:09:06 [emerg] 7484#6264: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 20:09:06 [alert] 7508#2700: worker process 7484 exited with code 1
+2012/08/22 20:09:55 [emerg] 4400#4996: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 20:09:55 [alert] 2056#3636: worker process 4400 exited with code 1
+2012/08/22 20:11:34 [emerg] 3152#708: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 20:11:34 [alert] 8092#6056: worker process 3152 exited with code 1
+2012/08/22 20:11:45 [error] 2636#3852: *7 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.8, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080"
+2012/08/22 20:12:40 [emerg] 5948#6908: a duplicate listen 0.0.0.0:80 in P:\server/conf/nginx.conf:37
+2012/08/22 20:15:17 [emerg] 3116#7972: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 20:15:17 [alert] 412#5676: worker process 3116 exited with code 1
+2012/08/22 20:15:19 [error] 2308#3000: *1 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.7, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080", referrer: "http://192.168.1.8:8080/"
+2012/08/22 20:20:03 [emerg] 6312#3828: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 20:20:03 [alert] 2328#6980: worker process 6312 exited with code 1
+2012/08/22 20:20:07 [error] 6280#7368: *2 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.8, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080"
+2012/08/22 20:20:31 [emerg] 3748#1268: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 20:20:31 [alert] 5740#7412: worker process 3748 exited with code 1
+2012/08/22 20:20:34 [error] 2264#6396: *2 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.8, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080"
+2012/08/22 20:20:54 [error] 2264#6396: *6 CreateFile() "P:\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.7, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080", referrer: "http://192.168.1.8:8080/"
+2012/08/22 20:30:05 [emerg] 6496#5708: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2012/08/22 20:30:05 [alert] 2376#4200: worker process 6496 exited with code 1
+2012/08/22 20:35:31 [alert] 5428#5432: no more than 60 processes can be spawned
+2012/08/22 20:36:29 [error] 5868#5964: *2 CreateFile() "P:\server/www/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.8, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080"
+2012/08/22 20:36:30 [alert] 5660#5664: no more than 60 processes can be spawned
+2012/08/22 20:37:01 [alert] 5564#4540: no more than 60 processes can be spawned
+2012/08/22 20:37:10 [error] 5800#5604: *1 CreateFile() "P:\server/www/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.8, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.8:8080"
+2012/08/22 20:37:10 [alert] 5184#5876: no more than 60 processes can be spawned
