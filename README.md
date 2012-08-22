@@ -1,4 +1,4 @@
-Simple-Web-Server
+Simple Web-Server
 =================
 
 A simple web-server which you can control easily and run from your USB-Device to host your website(s).
