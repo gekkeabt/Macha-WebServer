@@ -23,7 +23,11 @@ Changelog
 1.0
 ____________________________________
 -Buttons to control the server
+
 -Button to open your website folder
+
 -Realtime server status
+
 -Traying posibility
+
 -Now Using © LigHttpd
