@@ -1,4 +1,4 @@
-Simple Web-Server
+Macha - WebServer
 =================
 
 A simple web-server which you can control easily and run from your USB-Device or hard-drive to host your website(s).
